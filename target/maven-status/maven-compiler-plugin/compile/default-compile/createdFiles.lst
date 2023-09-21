@@ -1,0 +1,8 @@
+com\devrezaur\main\service\QuizService.class
+com\devrezaur\main\controller\MainController.class
+com\devrezaur\main\repository\ResultRepo.class
+com\devrezaur\main\model\Question.class
+com\devrezaur\main\model\Result.class
+com\devrezaur\main\SpringBootQuizAppApplication.class
+com\devrezaur\main\repository\QuestionRepo.class
+com\devrezaur\main\model\QuestionForm.class
