@@ -10,7 +10,7 @@ To create and utilize this application, please follow these steps:
 2. Set up your Java environment as demonstrated in the video tutorial available at [this link](https://www.youtube.com/watch?v=fbyobdxDQno).
 3. Run the application within VS Code to start utilizing its features.
 
-##To deploy the application:
+## To deploy the application:
 
 1. Open a command prompt as administrator.
 
