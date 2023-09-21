@@ -10,6 +10,20 @@ To create and utilize this application, please follow these steps:
 2. Set up your Java environment as demonstrated in the video tutorial available at [this link](https://www.youtube.com/watch?v=fbyobdxDQno).
 3. Run the application within VS Code to start utilizing its features.
 
+##To deploy the application:
+
+1. Open a command prompt as administrator.
+
+2. Navigate to the project directory.
+
+3. Run `docker-compose build` to build Docker containers.
+
+4. Start the application with `docker-compose up`.
+
+5. Ensure ports 8080 and 3306 are free.
+
+6. Access the app at `http://localhost:8080/`.
+
 ## Architecture
 
 The web application's architecture is structured as a Monolithic and Three-Tier (Three-Layer) Architecture. In this hierarchical structure, each layer communicates directly with the layer above or below it. The system comprises the following components:
